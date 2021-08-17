@@ -11,7 +11,7 @@ cache:
     - $HOME/.gradle/wrapper/
 
 jdk: oraclejdk8
-
+dist: trusty
 language: java
 
 services:
